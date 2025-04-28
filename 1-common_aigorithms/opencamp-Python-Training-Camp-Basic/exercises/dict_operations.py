@@ -20,33 +20,13 @@ def student_dict_operations(students_dict, operation, *args):
     - 根据操作返回不同结果
     """
     # 请在下方编写代码
-
-    # if add
     if operation == "add":
-        name, score = args
-        students_dict[name] = score
-        return students_dict
-
-    # if remove
+        students_dict[args[0]] = args[1]
     elif operation == "remove":
-        name = args[0]
-        if name in students_dict:
-            del students_dict[name]
-        return students_dict
-
-    # if update
+        students_dict.pop(args[0], None)
     elif operation == "update":
-        name, score = args
-        if name in students_dict:
-            students_dict[name] = score
-        return students_dict
-
-    # if get
+        students_dict[args[0]] = args[1]
     elif operation == "get":
-        name = args[0]
-        if name in students_dict:
-            return students_dict[name]
-        else:
-            return None
-
+        return students_dict.get(args[0])
+    return students_dict if operation != "get" else None
     pass 
