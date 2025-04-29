@@ -14,29 +14,17 @@
 - 课程设计/毕业设计参考
 - 开源项目协作实践
 
-## 📂 项目结构
-```
-.
-├── 0-basic_concepts        # 视觉基础概念
-├── 1-common_aigorithms     # 经典算法实现
-│   ├── 数学基础
-│   │   └── 0-BasicMath     # 线性代数/概率基础
-│   ├── 神经网络基础
-│   │   ├── 2-MLP           # 多层感知机
-│   │   ├── 3-CNN           # 卷积神经网络
-│   │   ├── 6-RNN           # 循环神经网络
-│   │   └── 9-LSTM          # 长短期记忆网络
-│   ├── 优化算法
-│   │   └── 5-OptimizationAlgorithm # 梯度下降/Adam等
-│   ├── 现代架构
-│   │   ├── 4-modernCNN     # ResNet/Inception等
-│   │   └── 7-modernRNN     # Attention机制
-│   └── 生成模型
-│       ├── 8-GAN           # 生成对抗网络
-│       └── 14-Diffusion    # 扩散模型
-├── 2-arxiv_paper          # 前沿论文复现
-└── 3-CV_project           # 简单的完整项目实践
-```
+## 📚 更新状态
+✅ 2025.04.29 新增  
+• [自动求导](1-common_aigorithms/common_aigorithms/0-BasicMath/0-autograd.ipynb)：完成了部分求导内容的数学知识及代码实现
+• [OpenCV调用](1-common_aigorithms/common_aigorithms/4-Open-SourceFrameworksAndTools/01-OpenCV.ipynb)：完成了OpenCV的基本使用教程
+
+🔄 持续更新  
+• 基础数学模块文档完成度已达45% 
+
+
+
+## 📋 项目内容
    
 ## 🛠️ 环境配置
 1. 克隆项目
