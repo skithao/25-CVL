@@ -4,24 +4,22 @@
 
 本项目由青海大学计算机学院236班CV学习小组维护，主要包含：
 - 📚 计算机视觉基础学习笔记
-- 🧠 经典/现代算法复现与解析
-- 🚀 实际项目开发经验沉淀
-- 🤖 AI应用开发最佳实践
+- 🧠 常用基础算法复现与解析
+- 🚀 经典视觉论文分析与解读
+- 🤖 视觉应用开发的简单实践
 
 适合场景：
 - 计算机视觉入门学习路线规划
-- 算法原理可视化理解
 - 课程设计/毕业设计参考
-- 开源项目协作实践
 
 ## 📚 更新状态
 ✅ 2025.04.29 新增  
-• [自动求导](1-common_aigorithms/common_aigorithms/0-BasicMath/0-autograd.ipynb)：完成了部分求导内容的数学知识及代码实现  
-• [OpenCV调用](1-common_aigorithms/common_aigorithms/4-Open-SourceFrameworksAndTools/01-OpenCV.ipynb)：完成了OpenCV的基本使用教程
+    • [自动求导](1-common_aigorithms/common_aigorithms/0-BasicMath/0-autograd.ipynb)：完成了部分求导内容的数学知识及代码实现  
+    • [OpenCV调用](1-common_aigorithms/common_aigorithms/4-Open-SourceFrameworksAndTools/01-OpenCV.ipynb)：完成了OpenCV的基本使用教程
 
 🔄 持续更新  
 • 基础数学模块文档完成度已达45% 
-
+• 基础工具模块文档完成度已达10%
 
 
 ## 📋 项目内容

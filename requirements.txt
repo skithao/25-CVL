@@ -19,7 +19,7 @@ torch>=2.0.0
 torchvision>=0.15.1
 
 # 计算机视觉
-opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78  # 替换为标准版以包含额外模块（aruco等）
 matplotlib==3.7.2
 scikit-image==0.21.0
 
