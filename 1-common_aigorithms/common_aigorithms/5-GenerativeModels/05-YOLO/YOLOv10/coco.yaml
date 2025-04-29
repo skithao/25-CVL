@@ -1,0 +1,13 @@
+# coco.yaml
+path: .\coco  # 修改为你的实际路径
+train: images/train2017  # 训练集目录
+val: images/val2017      # 验证集目录
+test: images/test2017    # 测试集目录（可选）
+
+# 类别名称
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  ...  # 共 80 个类别

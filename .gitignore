@@ -1,0 +1,4 @@
+.vscode/          # VS Code
+
+/1-common_aigorithms/common_aigorithms/5-GenerativeModels/05-YOLO/YOLOv10/coco/images
+/1-common_aigorithms/common_aigorithms/5-GenerativeModels/05-YOLO/YOLOv10/weights
