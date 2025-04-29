@@ -16,7 +16,7 @@
 
 ## 📚 更新状态
 ✅ 2025.04.29 新增  
-• [自动求导](1-common_aigorithms/common_aigorithms/0-BasicMath/0-autograd.ipynb)：完成了部分求导内容的数学知识及代码实现
+• [自动求导](1-common_aigorithms/common_aigorithms/0-BasicMath/0-autograd.ipynb)：完成了部分求导内容的数学知识及代码实现  
 • [OpenCV调用](1-common_aigorithms/common_aigorithms/4-Open-SourceFrameworksAndTools/01-OpenCV.ipynb)：完成了OpenCV的基本使用教程
 
 🔄 持续更新  
