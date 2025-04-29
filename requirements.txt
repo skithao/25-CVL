@@ -1,0 +1,38 @@
+# 基础开发依赖
+pytest==7.3.1
+requests==2.31.0
+responses==0.24.1
+colorama==0.4.6
+exceptiongroup==1.2.2
+iniconfig==2.1.0
+
+# 科学计算
+numpy==1.24.3
+scipy==1.11.1
+pandas==2.0.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+
+# 深度学习框架
+torch>=2.0.0
+torchvision>=0.15.1
+
+# 计算机视觉
+opencv-python==4.8.1.78
+matplotlib==3.7.2
+scikit-image==0.21.0
+
+# 工具类
+jupyter==1.0.0
+ipython==8.14.0
+tqdm==4.65.0
+tzdata==2025.2
+
+# 代码质量
+flake8==6.0.0
+black==23.7.0
+pylint==3.0.1
+pluggy==1.5.0
+tomli==2.2.1
+packaging==24.2
